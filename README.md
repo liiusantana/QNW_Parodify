@@ -9,7 +9,7 @@ Linguagem de programação: Ruby
 
 Tool(s): Cucumber, Capybara, RSpec e Allure-Cucumber
 
-Site utilizado na automação: http://parodify.qaninja.com.br/
+Site utilizado para automação: http://parodify.qaninja.com.br/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
