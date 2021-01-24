@@ -20,7 +20,7 @@ Aqui vamos ver:
 * Estruturação de relatórios (Default Cucumber e Allure Report)
 * Screenshot
 * Padrão de desenvolvimento de automação
-* Gems: Capybara, Cucumber, selenium-webdriver, httparty allure-cucumber e rspec
+* Gems: Capybara, Cucumber, Selenium WebDriver, HTTParty Allure e RSpec
 * Arquitetura e boas práticas de programação 
 * Lógica de programação
 * Hooks
