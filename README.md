@@ -25,4 +25,3 @@ Aqui vamos ver:
 * Lógica de programação
 * Hooks
 * App Actions 
-* Allure Report: http://10.0.0.111:58560/index.html#
