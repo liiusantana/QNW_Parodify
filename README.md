@@ -4,8 +4,11 @@ Automação de testes, desenvolvido durante o QA Ninja Week.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Editor de código usado: Visual Studio Code 
+
 Linguagem de programação: Ruby
+
 Tool(s): Cucumber, Capybara, RSpec e Allure-Cucumber
+
 Site utilizado na automação: http://parodify.qaninja.com.br/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
